@@ -1,12 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,50:7f00ff,100:ff00ff&height=280&section=header&text=LUAN%20FREZARIN&fontSize=80&fontColor=ffffff&fontAlign=50&animation=fadeIn&fontAlignY=40&descAlignY=62&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,30&height=180&section=header&text=LUAN%20FREZARIN&fontSize=70&fontColor=00ffff&animation=fadeIn&fontAlign=50&desc=FULL%20STACK%20DEVELOPER&descAlign=50&descAlignY=65&descSize=20" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Discipline+meets+Code.;Mobile+%26+Web+Specialist.;Node.js+%7C+React+%7C+AWS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Disciplina+Militar+%2B+Código+Limpo;Mobile+Expert+(React+Native);Backend+Solid+(Node+%2B+SQL);Deploy+em+Produção" alt="Typing SVG" />
   </a>
 </div>
+
+<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/luan-frezarin-6a4058359/">
@@ -22,41 +24,34 @@
 
 <br>
 
-## ⚡ System Status: *Online*
-> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> *"Disciplina militar adaptada para a engenharia de software."*
-
-Sou um **Desenvolvedor Full-Stack** com mentalidade voltada para execução e qualidade. Com background no **Exército Brasileiro**, transformo resiliência e liderança em código limpo e arquitetura escalável. 
-
-* 🔭 **Foco Atual:** Mobile (React Native) & Arquitetura Cloud.
-* 🚀 **Diferencial:** Experiência real de *deploy* em produção.
-* ☁️ **Infra:** AWS S3, Railway, Docker.
-
 ---
 
-## 💎 **PROJECT: HOJE - BORA?** (Live Production)
+## 🚨 **MISSION: CRITICAL (FLAGSHIP PROJECT)**
 
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
-      <td align="center" width="60%">
-        <h3>📱 APLICATIVO DISPONÍVEL</h3>
-        <p>Experiência completa de produto digital: do zero ao deploy.</p>
-        <p>
-            <img src="https://img.shields.io/badge/Status-Produção-00ff00?style=for-the-badge">
-            <img src="https://img.shields.io/badge/Plataforma-Mobile-blue?style=for-the-badge">
-        </p>
-        <br>
-        <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+      <td width="50%" align="center" valign="middle">
+        <img src="https://images.unsplash.com/photo-1551650975-87deedd944c3?q=80&w=1974&auto=format&fit=crop" width="100%" style="border-radius: 10px; border: 2px solid #00ffff;" alt="Preview do App" />
+        <br><br>
         <a href="https://apps.apple.com/br/app/e-hoje-bora/id6758227996">
-            <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
+            <img src="https://img.shields.io/badge/Download_on-App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" height="40" />
         </a>
       </td>
-      <td width="40%">
-        <b>🛠 TECH CORE:</b><br>
-        <code>React Native (Expo)</code><br>
-        <code>Node.js API</code><br>
-        <code>AWS S3 + Railway</code><br>
-        <code>Power BI Analytics</code>
+      <td width="50%" valign="top">
+        <h2 style="color: #00ffff;">📱 HOJE - BORA?</h2>
+        <p><i>Sistema completo em produção. Do conceito ao deploy.</i></p>
+        <br>
+        <p><b>🛠 NÚCLEO TECNOLÓGICO:</b></p>
+        <ul>
+            <li><code>React Native (Expo)</code> - Interface Híbrida</li>
+            <li><code>Node.js API</code> - Backend Robusto</li>
+            <li><code>AWS S3 + Railway</code> - Infraestrutura Cloud</li>
+            <li><code>MySQL</code> - Banco de Dados Relacional</li>
+            <li><code>Redis</code> - Cache & Performance</li>
+        </ul>
+        <br>
+        <img src="https://img.shields.io/badge/Status-ONLINE_EM_PRODUÇÃO-00ff00?style=for-the-badge">
       </td>
     </tr>
   </table>
@@ -68,7 +63,7 @@ Sou um **Desenvolvedor Full-Stack** com mentalidade voltada para execução e qu
 
 <div align="center">
   <br>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mysql,prisma,postgres,aws,docker,git,linux,postman,tailwind,vite,vscode&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,redis,aws,docker,git,js,ts,tailwind,vite,vscode,postman&perline=7&theme=dark" />
   <br><br>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A02" />
@@ -79,31 +74,30 @@ Sou um **Desenvolvedor Full-Stack** com mentalidade voltada para execução e qu
 
 ## 📂 Mission Log (Repositórios)
 
-| ID | Projeto | Status/Tech |
-| :--- | :--- | :--- |
-| 🧬 | **[portfolio-blog](./portfolio-blog)** | `React` `Node` `CMS` |
-| 📊 | **portfolio-analytics-dashboard** | `Power BI` `SQL` *Coming Soon* |
-| 💰 | **portfolio-crypto-wallet** | `API` `Finance` *Coming Soon* |
-| ⏳ | **portfolio-time-tracker** | `Node` `MySQL` *Coming Soon* |
-| 🍕 | **portfolio-split-bill** | `Logic` `JS` *Coming Soon* |
-| 🤖 | **portfolio-whatsapp-bot** | `Automation` `Baileys` *Coming Soon* |
+| CAT | Projeto | Stack Principal | Status |
+| :---: | :--- | :--- | :---: |
+| 🧬 | **[portfolio-blog](https://github.com/LuanVFrezarin/portfolio-blog)** | `React` `Node` `CMS` | ✅ PRONTO |
+| 📊 | **portfolio-analytics-dashboard** | `Power BI` `SQL` | ✅ PRONTO |
+| 💰 | **portfolio-crypto-wallet** | `API` `Finance` | ✅ PRONTO |
+| ⏳ | **portfolio-time-tracker** | `Node` `MySQL` | ✅ PRONTO |
+| 🍕 | **portfolio-split-bill** | `Logic` `JS` | ✅ PRONTO |
+| 🤖 | **portfolio-whatsapp-bot** | `Automation` `Baileys` | ✅ PRONTO |
 
 ---
 
 ## 📈 Quantum Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuanVFrezarin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff00ff&text_color=ffffff" height="180px" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanVFrezarin&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=false"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanVFrezarin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=ffffff" height="180px" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuanVFrezarin&theme=tokyonight&hide_border=true&background=0D1117&ring=ff00ff&fire=00ffff&currStreakLabel=00ffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanVFrezarin&layout=compact&theme=midnight-purple&hide_border=false"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LuanVFrezarin&theme=git_dark&no-frame=true&margin-w=15" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuanVFrezarin&theme=midnight-purple" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LuanVFrezarin&theme=radical&no-frame=true&margin-w=15" />
 </div>
