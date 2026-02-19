@@ -77,14 +77,14 @@ Sou um **Desenvolvedor Full-Stack** com mentalidade voltada para execução e qu
 
 ## 📂 Mission Log (Repositórios)
 
-| ID | Projeto | Status/Tech |
-| :--- | :--- | :--- |
-| 🧬 | **[portfolio-blog](https://github.com/LuanVFrezarin/portfolio-blog)** | `React` `Node` `CMS` |
-| 📊 | **portfolio-analytics-dashboard** | `Power BI` `SQL` `Ready` |
-| 💰 | **portfolio-crypto-wallet** | `API` `Finance` `Ready` |
-| ⏳ | **portfolio-time-tracker** | `Node` `MySQL` `Ready` |
-| 🍕 | **portfolio-split-bill** | `Logic` `JS` `Ready` |
-| 🤖 | **portfolio-whatsapp-bot** | `Automation` `Baileys` `Ready` |
+| ID | Projeto                                                                                       | Status/Tech                          |
+| :- | :-------------------------------------------------------------------------------------------- | :----------------------------------- |
+| 🧠 | **[FlowTask](https://github.com/LuanVFrezarin/FlowTask)**                                     | `React Native` `Node` `Productivity` |
+| 📜 | **[ContractFlow](https://github.com/LuanVFrezarin/ContractFlow)**                             | `Automation` `PDF` `Node`            |
+| 🧬 | **[portfolio-blog](https://github.com/LuanVFrezarin/portfolio-blog)**                         | `React` `Node` `CMS`                 |
+| 📊 | **[crypto_analytics](https://github.com/LuanVFrezarin/crypto_analytics)**                     | `Power BI` `Finance` `SQL`           |
+| ⏰  | **[portf-lio-ponto-eletronico](https://github.com/LuanVFrezarin/portf-lio-ponto-eletronico)** | `Node` `MySQL` `Auth`                |
+| 🍕 | **[portfolio-split-bill](https://github.com/LuanVFrezarin/portfolio-split-bill)**             | `Logic` `JS` `Ready`                 |
 
 ---
 
